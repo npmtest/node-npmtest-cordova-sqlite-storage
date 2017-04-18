@@ -1,0 +1,74 @@
+<svg height="1134" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1134" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-18 11:58:36 +0000  1140266 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 11:58:36 +0000     1440 bytes  AUTHORS.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 11:58:36 +0000    10404 bytes  CHANGES.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 11:58:36 +0000     1931 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 11:58:36 +0000     6183 bytes  HISTORY.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 11:58:36 +0000      361 bytes  LICENSE.md</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 11:58:36 +0000    93389 bytes  README.md</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 11:58:36 +0000    32426 bytes  SQLitePlugin.coffee.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-18 11:58:36 +0000     1464 bytes  bin/test.ps1</tspan>
+<tspan x="10" y="170">  9.  2017-04-18 11:58:36 +0000     1332 bytes  bin/test.sh</tspan>
+<tspan x="10" y="186"> 10.  2017-04-18 11:58:36 +0000     2003 bytes  circle.yml</tspan>
+<tspan x="10" y="202"> 11.  2017-04-18 11:58:36 +0000     2741 bytes  package.json</tspan>
+<tspan x="10" y="218"> 12.  2017-04-18 11:58:36 +0000     5644 bytes  plugin.xml</tspan>
+<tspan x="10" y="234"> 13.  2017-04-18 11:58:36 +0000     1024 bytes  scripts/beforePluginInstall.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-18 11:58:36 +0000      268 bytes  scripts/prepareSpec.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-18 11:58:36 +0000      499 bytes  spec/config.xml</tspan>
+<tspan x="10" y="282"> 16.  2017-04-18 11:58:36 +0000     1740 bytes  spec/www/index.html</tspan>
+<tspan x="10" y="298"> 17.  2017-04-18 11:58:36 +0000     5334 bytes  spec/www/lib/jasmine-2.4.1/boot.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-18 11:58:36 +0000     5224 bytes  spec/www/lib/jasmine-2.4.1/console.js</tspan>
+<tspan x="10" y="330"> 19.  2017-04-18 11:58:36 +0000    16347 bytes  spec/www/lib/jasmine-2.4.1/jasmine-html.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-18 11:58:36 +0000    20297 bytes  spec/www/lib/jasmine-2.4.1/jasmine.css</tspan>
+<tspan x="10" y="362"> 21.  2017-04-18 11:58:36 +0000    92077 bytes  spec/www/lib/jasmine-2.4.1/jasmine.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-18 11:58:36 +0000     1486 bytes  spec/www/lib/jasmine-2.4.1/jasmine_favicon.png</tspan>
+<tspan x="10" y="394"> 23.  2017-04-18 11:58:36 +0000    42283 bytes  spec/www/spec/basic-db-tx-sql-storage-results.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-18 11:58:36 +0000     1048 bytes  spec/www/spec/browser-check-startup.js</tspan>
+<tspan x="10" y="426"> 25.  2017-04-18 11:58:36 +0000    67408 bytes  spec/www/spec/db-open-close-delete-test.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-18 11:58:36 +0000    13985 bytes  spec/www/spec/db-simultaneous-tx-access-test.js</tspan>
+<tspan x="10" y="458"> 27.  2017-04-18 11:58:36 +0000    69800 bytes  spec/www/spec/db-sql-operations-test.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-18 11:58:36 +0000   150149 bytes  spec/www/spec/db-tx-error-handling-test.js</tspan>
+<tspan x="10" y="490"> 29.  2017-04-18 11:58:36 +0000    33048 bytes  spec/www/spec/db-tx-error-mapping-test.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-18 11:58:36 +0000     4185 bytes  spec/www/spec/db-tx-multiple-update-test.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-18 11:58:36 +0000    14828 bytes  spec/www/spec/db-tx-sql-features-test.js</tspan>
+<tspan x="10" y="538"> 32.  2017-04-18 11:58:36 +0000    76657 bytes  spec/www/spec/db-tx-sql-select-value-test.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-18 11:58:36 +0000    72541 bytes  spec/www/spec/db-tx-string-test.js</tspan>
+<tspan x="10" y="570"> 34.  2017-04-18 11:58:36 +0000    62716 bytes  spec/www/spec/db-tx-value-bindings-test.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-18 11:58:36 +0000     4615 bytes  spec/www/spec/ext-tx-blob-test.js</tspan>
+<tspan x="10" y="602"> 36.  2017-04-18 11:58:36 +0000     2910 bytes  spec/www/spec/regexp-test.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-18 11:58:36 +0000     1114 bytes  spec/www/spec/self-test.js</tspan>
+<tspan x="10" y="634"> 38.  2017-04-18 11:58:36 +0000    28162 bytes  spec/www/spec/sql-batch-test.js</tspan>
+<tspan x="10" y="650"> 39.  2017-04-18 11:58:36 +0000     4152 bytes  spec/www/spec/sqlite-version-test.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-18 11:58:36 +0000    29377 bytes  spec/www/spec/tx-semantics-test.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-18 11:58:36 +0000    21367 bytes  src/android/io/sqlc/SQLiteAndroidDatabase.java</tspan>
+<tspan x="10" y="698"> 42.  2017-04-18 11:58:36 +0000     9289 bytes  src/android/io/sqlc/SQLiteConnectorDatabase.java</tspan>
+<tspan x="10" y="714"> 43.  2017-04-18 11:58:36 +0000    14445 bytes  src/android/io/sqlc/SQLitePlugin.java</tspan>
+<tspan x="10" y="730"> 44.  2017-04-18 11:58:36 +0000     1352 bytes  src/ios/SQLitePlugin.h</tspan>
+<tspan x="10" y="746"> 45.  2017-04-18 11:58:36 +0000    19844 bytes  src/ios/SQLitePlugin.m</tspan>
+<tspan x="10" y="762"> 46.  2017-04-18 11:58:36 +0000       23 bytes  src/windows/SQLite3-Win-RT/SQLite3/Constants.cpp</tspan>
+<tspan x="10" y="778"> 47.  2017-04-18 11:58:36 +0000     2563 bytes  src/windows/SQLite3-Win-RT/SQLite3/Constants.h</tspan>
+<tspan x="10" y="794"> 48.  2017-04-18 11:58:36 +0000     1026 bytes  src/windows/SQLite3-Win-RT/SQLite3/Database.cpp</tspan>
+<tspan x="10" y="810"> 49.  2017-04-18 11:58:36 +0000      397 bytes  src/windows/SQLite3-Win-RT/SQLite3/Database.h</tspan>
+<tspan x="10" y="826"> 50.  2017-04-18 11:58:36 +0000     2357 bytes  src/windows/SQLite3-Win-RT/SQLite3/SQLite3.Share\</tspan>
+<tspan x="10" y="842">d.vcxitems</tspan>
+<tspan x="10" y="858"> 51.  2017-04-18 11:58:36 +0000    12381 bytes  src/windows/SQLite3-Win-RT/SQLite3/SQLite3.UWP/S\</tspan>
+<tspan x="10" y="874">QLite3.UWP.vcxproj</tspan>
+<tspan x="10" y="890"> 52.  2017-04-18 11:58:36 +0000    12783 bytes  src/windows/SQLite3-Win-RT/SQLite3/SQLite3.Windo\</tspan>
+<tspan x="10" y="906">ws/SQLite3.Windows.vcxproj</tspan>
+<tspan x="10" y="922"> 53.  2017-04-18 11:58:36 +0000     7791 bytes  src/windows/SQLite3-Win-RT/SQLite3/SQLite3.Windo\</tspan>
+<tspan x="10" y="938">wsPhone/SQLite3.WindowsPhone.vcxproj</tspan>
+<tspan x="10" y="954"> 54.  2017-04-18 11:58:36 +0000     4688 bytes  src/windows/SQLite3-Win-RT/SQLite3/SQLite3.sln</tspan>
+<tspan x="10" y="970"> 55.  2017-04-18 11:58:36 +0000     1998 bytes  src/windows/SQLite3-Win-RT/SQLite3/Statement.cpp</tspan>
+<tspan x="10" y="986"> 56.  2017-04-18 11:58:36 +0000      735 bytes  src/windows/SQLite3-Win-RT/SQLite3/Statement.h</tspan>
+<tspan x="10" y="1002"> 57.  2017-04-18 11:58:36 +0000       20 bytes  src/windows/SQLite3-Win-RT/SQLite3/pch.cpp</tspan>
+<tspan x="10" y="1018"> 58.  2017-04-18 11:58:36 +0000       63 bytes  src/windows/SQLite3-Win-RT/SQLite3/pch.h</tspan>
+<tspan x="10" y="1034"> 59.  2017-04-18 11:58:36 +0000     8313 bytes  src/windows/SQLite3-Win-RT/SQLite3JS/js/SQLite3.\</tspan>
+<tspan x="10" y="1050">js</tspan>
+<tspan x="10" y="1066"> 60.  2017-04-18 11:58:36 +0000     4503 bytes  src/windows/sqlite-proxy.js</tspan>
+<tspan x="10" y="1082"> 61.  2017-04-18 11:58:36 +0000      370 bytes  tests/plugin.xml</tspan>
+<tspan x="10" y="1098"> 62.  2017-04-18 11:58:36 +0000      571 bytes  tests/tests.js</tspan>
+<tspan x="10" y="1114"> 63.  2017-04-18 11:58:36 +0000    30795 bytes  www/SQLitePlugin.js</tspan>
+</text>
+</svg>
