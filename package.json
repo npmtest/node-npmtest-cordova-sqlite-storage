@@ -1,6 +1,6 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
-    "description": "#### test coverage for  [cordova-sqlite-storage (v2.0.3)](https://github.com/litehelpers/Cordova-sqlite-storage)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-sqlite-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-sqlite-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-sqlite-storage.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-sqlite-storage)",
+    "description": "#### basic test coverage for  [cordova-sqlite-storage (v2.0.3)](https://github.com/litehelpers/Cordova-sqlite-storage)  [![npm package](https://img.shields.io/npm/v/npmtest-cordova-sqlite-storage.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cordova-sqlite-storage) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cordova-sqlite-storage.svg)](https://travis-ci.org/npmtest/node-npmtest-cordova-sqlite-storage)",
     "devDependencies": {
         "cordova-sqlite-storage": "*",
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
